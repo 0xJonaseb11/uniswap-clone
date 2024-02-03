@@ -1,0 +1,11 @@
+# compiler files
+out
+cache
+build
+artifacts
+
+# env
+.env
+
+# tests
+coverage
